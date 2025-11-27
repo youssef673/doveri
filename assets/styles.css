@@ -37,8 +37,9 @@ body{
 .share{background:transparent;border:1px solid #e6e9ef;padding:6px 8px;border-radius:6px;text-decoration:none;color:var(--muted)}
 .share:hover{border-color:var(--accent);color:var(--accent)}
 
-.toc{background:var(--card);border-radius:10px;padding:12px;margin:12px 0;box-shadow:0 6px 20px rgba(12,18,46,0.06)}
-.toc ul{margin:8px 0 0;padding-left:18px}
+.toc{background:var(--card);border-radius:10px;padding:12px;margin:12px 0;box-shadow:0 6px 20px rgba(12,18,46,0.06);display:flex;flex-direction:column;align-items:flex-start}
+.toc strong{margin-bottom:8px;font-weight:600}
+.toc ul{margin:0;padding-left:18px;width:100%}
 .toc a{color:var(--accent);text-decoration:none}
 .toc a:hover{text-decoration:underline}
 
