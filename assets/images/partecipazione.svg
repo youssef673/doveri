@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="220" viewBox="0 0 320 220" role="img" aria-label="Icona partecipazione">
+  <rect width="320" height="220" rx="16" fill="#fff8ea"/>
+  <g transform="translate(40,40)" fill="none" stroke="#0b5cff" stroke-width="6" stroke-linecap="round">
+    <path d="M0 80 L240 80" stroke="#0b8a6f" stroke-width="8"/>
+    <circle cx="40" cy="40" r="16" fill="#0b5cff"/>
+    <circle cx="120" cy="40" r="16" fill="#0b5cff"/>
+    <circle cx="200" cy="40" r="16" fill="#0b5cff"/>
+    <text x="20" y="150" font-size="14" fill="#0b3a66">Partecipa</text>
+  </g>
+</svg>
