@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="220" viewBox="0 0 320 220" role="img" aria-label="Icona ambiente">
+  <rect width="320" height="220" rx="16" fill="#eefdf5"/>
+  <g transform="translate(40,30)" fill="none" stroke="#0b8a6f" stroke-width="5" stroke-linecap="round">
+    <path d="M100 10 C80 40, 60 60, 30 80" stroke="#0b5cff"/>
+    <path d="M60 120 C80 90, 140 90, 160 120" stroke="#0b8a6f"/>
+    <circle cx="120" cy="50" r="20" fill="#0b8a6f" opacity="0.15"/>
+  </g>
+</svg>
